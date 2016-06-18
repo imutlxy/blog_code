@@ -5,3 +5,6 @@
 .DS_Store
 /build
 /captures
+.idea/modules/gen/com/lxy/BuildConfig.java
+.idea/modules/gen/com/lxy/Manifest.java
+.idea/modules/gen/com/lxy/R.java
