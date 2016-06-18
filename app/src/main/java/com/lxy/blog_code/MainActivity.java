@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-
+//添加一行注释
 public class MainActivity extends ActionBarActivity {
 
     @Override
